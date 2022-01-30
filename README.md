@@ -1,4 +1,4 @@
-Start The Repo Quick Or you wont be a 1337 coder
+Star The Repo Quick Or you wont be a 1337 coder
 
 [+] git clone https://github.com/Terminal1337/tempmail-python.git
 
