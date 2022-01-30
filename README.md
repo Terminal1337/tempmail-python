@@ -12,3 +12,5 @@ email domain is - wwjmp.com
 email id - inbox id
 
 follow the refernce Image below
+
+![image](https://user-images.githubusercontent.com/95563109/151693650-68a3871a-d5e3-4a05-a381-1b696e84439b.png)
